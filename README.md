@@ -116,11 +116,7 @@ SQLite Database for local storage
 
 ---
 
-## 📬 Contact
 
-*[Add your email or LinkedIn profile here]*
-
----
 
 <div align="center">
 

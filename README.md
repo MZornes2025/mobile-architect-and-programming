@@ -1,5 +1,5 @@
 # Capstone ePortfolio
-*Computer Science Portfolio | Android Developer*
+*Computer Science Portfolio | Android Development*
 
 ---
 

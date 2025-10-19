@@ -8,6 +8,7 @@
 This ePortfolio represents my journey through the Computer Science program, showcasing my growth into a professional software developer. Through enhancing an Inventory Management Android application, I demonstrate technical proficiency, analytical thinking, and security-minded development.
 
 ## 📱 App Overview
+
 The **Inventory App** is an Android application designed to help warehouse employees efficiently track and manage inventory items. The app provides a secure login system, intuitive inventory grid layout, comprehensive item management capabilities, and SMS notifications for low stock alerts.
 
 ### Primary Goals
@@ -27,6 +28,7 @@ The **Inventory App** is an Android application designed to help warehouse emplo
 ## 🎨 User-Centered Design
 
 ### Screens & Features
+
 | Screen | Key Features | User Benefit |
 |--------|-------------|-------------|
 | **Login** | Secure auth, password obscuring, dual login/registration | Quick access, account security |
@@ -34,6 +36,7 @@ The **Inventory App** is an Android application designed to help warehouse emplo
 | **SMS Permissions** | Contextual explanation, graceful denial handling | Informed permission decisions |
 
 ### Design Philosophy
+
 The UI was designed specifically for warehouse workers:
 - **Large touch targets** for glove compatibility
 - **Color-coded visual indicators** for quick status assessment
@@ -50,22 +53,28 @@ The UI was designed specifically for warehouse workers:
 - **Progressive enhancement** with thorough testing at each stage
 
 ### Technical Architecture
-```plaintext
 App Structure:
-- MainActivity (Login/Registration)
-- DashboardActivity (Inventory Management) 
-- SmsPermissionActivity (Notifications)
-- RecyclerView with Custom Adapter
-- SQLite Database for local storage
+
+MainActivity (Login/Registration)
+
+DashboardActivity (Inventory Management)
+
+SmsPermissionActivity (Notifications)
+
+RecyclerView with Custom Adapter
+
+SQLite Database for local storage
 
 
-### Skills Demonstrated:
+### Skills Demonstrated
+
 - **Software Design & Engineering:** Refactored codebase, eliminated duplication, implemented professional coding standards
 - **Algorithms & Data Structure:** Optimized performance with DiffUtil, implemented robust input validation  
 - **Databases:** Secured user data with BCrypt password hashing, implemented database migrations
 - **Collaboration & Communication:** Partnered on code review, authored technical narratives
 
-### Course Outcomes Achieved:
+### Course Outcomes Achieved
+
 - ✅ Employ strategies for building collaborative environments
 - ✅ Design and deliver professional-quality communications
 - ✅ Design computing solutions using algorithmic principles
@@ -75,7 +84,8 @@ App Structure:
 ---
 
 ## Code Review
-[Watch My Code Review Video](https://youtu.be/ktiL2u_ch24)
+
+[![Code Review Video](https://img.shields.io/badge/Watch_Code_Review-Video-red?style=for-the-badge&logo=youtube)](https://youtu.be/ktiL2u_ch24)
 
 *Analysis of original code and enhancement planning across three categories*
 
@@ -83,21 +93,38 @@ App Structure:
 
 ## Enhanced Artifacts
 
-### 1. Software Design & Engineering
+### 1. 🛠️ Software Design & Engineering
+
 **Enhancements:** Code refactoring, BaseRepository pattern, Constants implementation  
-- [View Narrative](https://github.com/MZornes2025/mobile-architect-and-programming/blob/main/Software%20Design%20%26%20Engineering%20Enhancement.docx)
-- [Download Enhanced Code](https://github.com/MZornes2025/mobile-architect-and-programming/blob/main/InventoryApp1%20Software%20Design%20%26%20Engineering%20Enhancement.rar)
 
-### 2. Algorithms & Data Structure  
+📄 [View Narrative](https://github.com/MZornes2025/mobile-architect-and-programming/blob/main/Software%20Design%20%26%20Engineering%20Enhancement.docx)  
+💾 [Download Enhanced Code](https://github.com/MZornes2025/mobile-architect-and-programming/blob/main/InventoryApp1%20Software%20Design%20%26%20Engineering%20Enhancement.rar)
+
+### 2. ⚡ Algorithms & Data Structure  
+
 **Enhancements:** DiffUtil implementation, input validation, performance optimization
-- [View Narrative](https://github.com/MZornes2025/mobile-architect-and-programming/blob/main/Algorithms%20%26%20Data%20Structure%20Enhancement.docx)
-- [Download Enhanced Code](https://github.com/MZornes2025/mobile-architect-and-programming/blob/main/Algorithms%20%26%20Data%20Structure%20Enhancement.zip)
 
-### 3. Databases
+📄 [View Narrative](https://github.com/MZornes2025/mobile-architect-and-programming/blob/main/Algorithms%20%26%20Data%20Structure%20Enhancement.docx)  
+💾 [Download Enhanced Code](https://github.com/MZornes2025/mobile-architect-and-programming/blob/main/Algorithms%20%26%20Data%20Structure%20Enhancement.zip)
+
+### 3. 🗄️ Databases
+
 **Enhancements:** BCrypt password hashing, secure authentication, database migrations
-- [View Narrative](https://github.com/MZornes2025/mobile-architect-and-programming/blob/main/Database%20Enhancement%20Narrative.docx)
-- [Download Enhanced Code](https://github.com/MZornes2025/mobile-architect-and-programming/blob/main/Database%20Enhancement.zip)
+
+📄 [View Narrative](https://github.com/MZornes2025/mobile-architect-and-programming/blob/main/Database%20Enhancement%20Narrative.docx)  
+💾 [Download Enhanced Code](https://github.com/MZornes2025/mobile-architect-and-programming/blob/main/Database%20Enhancement.zip)
 
 ---
 
+## 📬 Contact
 
+*[Add your email or LinkedIn profile here]*
+
+---
+
+<div align="center">
+
+*Last updated: December 2024*  
+*Built with ❤️ using Markdown & GitHub Pages*
+
+</div>

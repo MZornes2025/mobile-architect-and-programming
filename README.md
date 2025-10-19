@@ -120,7 +120,6 @@ SQLite Database for local storage
 
 <div align="center">
 
-*Last updated: December 2024*  
 *Built with ❤️ using Markdown & GitHub Pages*
 
 </div>

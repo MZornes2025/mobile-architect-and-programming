@@ -1,4 +1,4 @@
-# Mariana's ePortfolio
+# Capstone ePortfolio
 *Computer Science Portfolio | Android Developer*
 
 ---
